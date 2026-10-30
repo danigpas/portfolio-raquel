@@ -11,6 +11,7 @@ desde cualquier móvil.
 - **Web:** https://raquelperezpintores.com
 - **Con www:** https://www.raquelperezpintores.com
 - **Preview:** https://raquelperezpintores.vercel.app
+- **Repositorio:** https://github.com/danigpas/portfolio-raquel
 
 ---
 
@@ -184,7 +185,9 @@ Si existe, tiene prioridad sobre Resend.
 
 ## Despliegue
 
-El proyecto está desplegado en Vercel y conectado al repositorio de GitHub.
+El proyecto está desplegado en Vercel. El auto-deploy desde GitHub está
+desconectado para no publicar una versión sin los vídeos (que no se versionan).
+Se despliega desde local, donde sí están los MP4:
 
 ```bash
 npx vercel deploy --prod

@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="clay" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#c98a6f"/>
+      <stop offset="1" stop-color="#6f3f31"/>
+    </linearGradient>
+    <linearGradient id="moss" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#82957a"/>
+      <stop offset="1" stop-color="#3f4d3d"/>
+    </linearGradient>
+    <linearGradient id="ochre" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#d6b77a"/>
+      <stop offset="1" stop-color="#795e30"/>
+    </linearGradient>
+    <filter id="soft" x="-30%" y="-30%" width="160%" height="160%">
+      <feDropShadow dx="0" dy="18" stdDeviation="22" flood-color="#25251f" flood-opacity="0.22"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="630" fill="#f4f1ea"/>
+  <rect x="34" y="34" width="1132" height="562" rx="28" fill="none" stroke="#dcd8ce"/>
+
+  <g font-family="ui-monospace, Menlo, monospace" fill="#6f6e65" font-size="14" letter-spacing="2.4">
+    <text x="80" y="92">RAQUEL PÉREZ PINTOR</text>
+    <text x="1120" y="92" text-anchor="end">PORTFOLIO · 2026</text>
+  </g>
+
+  <g font-family="Georgia, 'Times New Roman', serif" fill="#25251f">
+    <text x="78" y="250" font-size="98" letter-spacing="-4">Historias que</text>
+    <text x="78" y="352" font-size="105" font-style="italic" fill="#52634f" letter-spacing="-4">se ven.</text>
+    <text x="80" y="424" font-size="34" fill="#67675f" letter-spacing="-0.5">Comunidades que se quedan.</text>
+  </g>
+
+  <g transform="rotate(-7 930 310)" filter="url(#soft)">
+    <rect x="812" y="122" width="184" height="326" rx="24" fill="url(#clay)"/>
+    <circle cx="866" cy="188" r="48" fill="#fdfcf9" opacity="0.16"/>
+    <text x="836" y="384" font-family="Georgia, serif" font-style="italic" font-size="34" fill="#fdfcf9">Se ven.</text>
+    <text x="836" y="414" font-family="ui-monospace, monospace" font-size="10" letter-spacing="1.4" fill="#fdfcf9" opacity="0.7">REEL · CAMPAÑA</text>
+  </g>
+
+  <g transform="rotate(6 1042 286)" filter="url(#soft)">
+    <rect x="948" y="100" width="184" height="326" rx="24" fill="url(#moss)"/>
+    <circle cx="1010" cy="170" r="52" fill="#fdfcf9" opacity="0.13"/>
+    <text x="972" y="362" font-family="Georgia, serif" font-style="italic" font-size="34" fill="#fdfcf9">Se acerca.</text>
+    <text x="972" y="392" font-family="ui-monospace, monospace" font-size="10" letter-spacing="1.4" fill="#fdfcf9" opacity="0.7">DIVULGACIÓN</text>
+  </g>
+
+  <g transform="rotate(13 1116 372)" filter="url(#soft)" opacity="0.92">
+    <rect x="1040" y="196" width="152" height="282" rx="22" fill="url(#ochre)"/>
+    <circle cx="1092" cy="254" r="38" fill="#fdfcf9" opacity="0.15"/>
+    <text x="1060" y="418" font-family="Georgia, serif" font-style="italic" font-size="28" fill="#fdfcf9">Se queda.</text>
+    <text x="1060" y="444" font-family="ui-monospace, monospace" font-size="9" letter-spacing="1.2" fill="#fdfcf9" opacity="0.7">COMUNIDAD</text>
+  </g>
+
+  <g font-family="ui-monospace, Menlo, monospace" font-size="13" letter-spacing="1.8" fill="#6f6e65">
+    <text x="80" y="524">COMUNICACIÓN DIGITAL · REDES SOCIALES · CONTENIDO</text>
+  </g>
+  <g font-family="Georgia, serif" font-size="24" fill="#3f4d3d">
+    <text x="80" y="566">raquelperezpintores.com</text>
+  </g>
+  <g fill="#52634f">
+    <circle cx="1082" cy="548" r="5"/>
+    <circle cx="1104" cy="548" r="5" opacity="0.55"/>
+    <circle cx="1126" cy="548" r="5" opacity="0.3"/>
+  </g>
+</svg>

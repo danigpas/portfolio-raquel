@@ -1,0 +1,16 @@
+node_modules/
+.next/
+out/
+.env*.local
+*.tsbuildinfo
+next-env.d.ts
+
+t6-cv-site/
+
+.vercel
+
+.env
+
+# Vídeos: no se versionan por tamaño (ver public/media/videos/README.md)
+public/media/videos/*
+!public/media/videos/README.md
